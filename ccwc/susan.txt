@@ -1,0 +1,3 @@
+Hello, this is my test file.
+To Test the line count.
+It should be 3
